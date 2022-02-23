@@ -1,4 +1,9 @@
 ```css
+.selector {
+  font-family: "Awesome", Arial, sans-serif:
+  color: red;
+  }
+```
 # NeuroStartUp
 
 ![](https://netology-code.github.io/git-homeworks/introduction/assets/logo.png)
@@ -10,4 +15,4 @@
 * Высокая точность поиска
 * Высокая скорость поиска
 * Низкая цена
-```
+
